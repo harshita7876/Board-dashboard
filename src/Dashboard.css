@@ -1,0 +1,119 @@
+.a1
+{
+    width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100";
+}
+.a2
+{
+    width: 20%" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100";
+}
+.a3
+{
+    width: 40%" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100";
+}
+.a4
+{
+    width: 80%" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100";
+}
+.a5
+{
+    width: 100%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100";
+}
+.a6
+{
+    width: 25rem;
+}
+.a7
+{
+    width: 60%" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100";
+}
+.toggled {
+    overflow: visible;
+    width: 6.5rem!important;
+}
+.toggled1 {
+    width: 0!important;
+    overflow: hidden;
+}
+.bg-black {
+    background-color: black;
+    border-radius: 30px;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+  }
+  .bg-color1{
+    background-color: #DDEFE0;
+    height: 120px; 
+    width: 221.05262756347656px;
+    left: 0px;
+    top: 0px;
+    border-radius: 20px;
+    
+  }
+  .bg-color2{
+    background-color: #F4ECDD;
+    height: 120px; 
+    width: 221.05262756347656px;
+    left: 0px;
+    top: 0px;
+    border-radius: 20px;
+    
+  }
+  .bg-color3{
+    background-color: #EFDADA;
+    height: 120px; 
+    width: 221.05262756347656px;
+    left: 0px;
+    top: 0px;
+    border-radius: 20px;
+  }
+  .bg-color4{
+    background-color: #DEE0EF;
+    height: 120px; 
+    width: 221.05262756347656px;
+    left: 0px;
+    top: 0px;
+    border-radius: 20px;
+  }
+
+  .text-primary {
+    color: black !important;
+  }
+  .text-success {
+    color: black !important;
+  }
+  .text-info {
+    color: black !important;
+  }
+  .text-warning {
+    color: black !important;
+  }
+
+  .text-gray-800 {
+    color: black !important;
+  }
+  .col-xl-8 {
+    flex: 0 0 100% !important;
+    max-width: 100% ;
+  }
+
+  .btn-primary {
+    color: gray;
+    background-color: #f8f9fc;
+    border-color: #f8f9fc;
+    left: 650px;
+    border-radius: 0px;
+  }
+  .radi {
+    left: 700px;
+    border-radius: 20px !important;
+  }
+
+  .img-fluid {
+    width: 45%;
+  }
+
+  .img-fluid-pie {
+    width: fit-content;
+  }
